@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/app-movie/static/css/main.f906532f.css",
-    "main.js": "/app-movie/static/js/main.192b3e2d.js",
-    "static/media/boxicons.svg": "/app-movie/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/footer-bg.jpg": "/app-movie/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/app-movie/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/app-movie/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/app-movie/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/app-movie/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/app-movie/static/media/tmovie.67797e942e59deb68592.png",
-    "index.html": "/app-movie/index.html",
-    "main.f906532f.css.map": "/app-movie/static/css/main.f906532f.css.map",
-    "main.192b3e2d.js.map": "/app-movie/static/js/main.192b3e2d.js.map"
+    "main.css": "/movies-axios-api/static/css/main.9667d2fb.css",
+    "main.js": "/movies-axios-api/static/js/main.cc6dc346.js",
+    "static/media/boxicons.svg": "/movies-axios-api/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/movies-axios-api/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movies-axios-api/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movies-axios-api/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movies-axios-api/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movies-axios-api/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movies-axios-api/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/movies-axios-api/index.html",
+    "main.9667d2fb.css.map": "/movies-axios-api/static/css/main.9667d2fb.css.map",
+    "main.cc6dc346.js.map": "/movies-axios-api/static/js/main.cc6dc346.js.map"
   },
   "entrypoints": [
-    "static/css/main.f906532f.css",
-    "static/js/main.192b3e2d.js"
+    "static/css/main.9667d2fb.css",
+    "static/js/main.cc6dc346.js"
   ]
 }
